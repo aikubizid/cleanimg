@@ -8,4 +8,4 @@ CleanIMG is imgur uploader tool build for blogger and webmaster to optimize thei
     💎Optimize & Webp convert on the fly
 
 Demo: https://cleanimg.pages.dev
-Created by guy from AIKU https://aiku.biz.id
+Created by guy from AIKU https://www.playtekno.biz.id
